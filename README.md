@@ -1,5 +1,12 @@
 ### Hi there 👋
-# Languages & Tools
+I'm SkyAo（敖天羽）, a Chinese Full Stack Developer.
+
+- 🔭 I’m currently working on ? (It's a secret now!)
+- 🌱 I’m currently learning Golang.
+- 💬 My Blog: [Codesky](https://www.codesky.me/) 
+- 📫 My Resume: [Here](https://hacknical.com/csvwolf/resume?locale=zh)
+
+### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
